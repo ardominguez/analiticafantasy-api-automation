@@ -1,0 +1,10 @@
+analiticafantasy:
+  baseUrl: https://app.analiticafantasy.com/api
+  login:
+    valid:
+      email: "ailen.ramayo.dominguez@gmail.com"
+      password: "91091542915"
+    invalid:
+      email: "ailen.ramayo.dominguez@gmail.com"
+      password: "12345"
+      message: "Invalid email or password"
