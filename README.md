@@ -1,1 +1,0 @@
-# analiticafantasy-api-automation
