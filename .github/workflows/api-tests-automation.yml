@@ -1,4 +1,4 @@
-name: Running Web FashionHub Tests
+name: Run API Automation Tests
 run-name: "API Automation Tests"
 on:
   workflow_dispatch:
