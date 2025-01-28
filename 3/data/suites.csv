@@ -1,0 +1,44 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 28 15:27:05 GMT 2025","Tue Jan 28 15:27:06 GMT 2025","1454","","Squad","","Validate squad creation/deletion POST /fantasy-squad 200 OK","","Validate squad creation/deletion POST /fantasy-squad 200 OK","  """"""
+    As a developer
+    I want to test the Squad endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:02 GMT 2025","Tue Jan 28 15:27:05 GMT 2025","2997","","Account","","Update user data information","","Update user data information",""
+"passed","Tue Jan 28 15:27:04 GMT 2025","Tue Jan 28 15:27:05 GMT 2025","1138","","TierList","","Validate TierList creation/deletion POST /tierlist 200 OK","","Validate TierList creation/deletion POST /tierlist 200 OK","""""""
+    As a developer
+    I want to test the TierList endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:06 GMT 2025","Tue Jan 28 15:27:09 GMT 2025","3275","","Squad","","Validate share squad POST /fantasy-squad/share 200 OK","","Validate share squad POST /fantasy-squad/share 200 OK","  """"""
+    As a developer
+    I want to test the Squad endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:05 GMT 2025","Tue Jan 28 15:27:08 GMT 2025","2208","","Squad","","Validate remove player from squad POST /fantasy-squad/upsert 200 OK","","Validate remove player from squad POST /fantasy-squad/upsert 200 OK","  """"""
+    As a developer
+    I want to test the Squad endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:02 GMT 2025","Tue Jan 28 15:27:03 GMT 2025","1417","","Login","","Validate invalid login GET 401 unauthorized","","Validate invalid login GET 401 unauthorized",""
+"passed","Tue Jan 28 15:27:02 GMT 2025","Tue Jan 28 15:27:05 GMT 2025","2937","","Squad","","Validate squad creation/deletion POST /fantasy-squad 200 OK","","Validate squad creation/deletion POST /fantasy-squad 200 OK","""""""
+    As a developer
+    I want to test the flash new endpoint
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:05 GMT 2025","Tue Jan 28 15:27:06 GMT 2025","1163","","Squad","","Validate add player to squad POST /fantasy-squad/upsert 200 OK","","Validate add player to squad POST /fantasy-squad/upsert 200 OK","  """"""
+    As a developer
+    I want to test the Squad endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:02 GMT 2025","Tue Jan 28 15:27:04 GMT 2025","2569","","TierList","","Validate visualize TierList GET /tierlist/slug 200 OK","","Validate visualize TierList GET /tierlist/slug 200 OK","""""""
+    As a developer
+    I want to test the TierList endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:04 GMT 2025","Tue Jan 28 15:27:06 GMT 2025","2052","","Squad","","Validate shared squad GET /fantasy-squad/shared 200 OK","","Validate shared squad GET /fantasy-squad/shared 200 OK","  """"""
+    As a developer
+    I want to test the Squad endpoints
+    So that I can ensure they behave as expected
+  """""""
+"passed","Tue Jan 28 15:27:03 GMT 2025","Tue Jan 28 15:27:04 GMT 2025","416","","Login","","Validate user valid login GET 200 OK","","Validate user valid login GET 200 OK",""
